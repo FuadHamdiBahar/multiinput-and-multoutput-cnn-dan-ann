@@ -7,3 +7,6 @@ The data used in this study is secondary data obtained from all health centers i
 The challenge is how to generate features using CNN model then classify features using MLP?
 Let's get started
 </p>
+
+## Flow Chart <br>
+![alt text](https://github.com/FuadHamdiBahar/multiinput-and-multoutput-cnn-dan-ann/blob/main/Picture1.png)
